@@ -1,0 +1,12 @@
+{
+    "Name": "Stardew Valley Reimagined",
+    "Author": "DaisyNiko",
+    "Version": "1.4.5",
+    "Description": "just a massive visual overhaul of every outdoor map in the game",
+    "UniqueID": "DaisyNiko.StardewValleyReimagined",
+    "MinimumApiVersion": "2.11.0",
+    "UpdateKeys": ["Nexus:4119"],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

@@ -1,0 +1,13 @@
+{
+   "Name": "Sweet Greenhouse",
+   "Author": "Yyeahdude",
+   "Version": "1.0.0",
+   "Description": "Bigger Greenhouse.",
+   "UniqueID": "Yyeahdude.Greenhouse",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "1.3.0" // optional
+   }
+}

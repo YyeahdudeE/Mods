@@ -1,0 +1,13 @@
+{
+   "Name": "House Recolor",
+   "Author": "Yyeahdude",
+   "Version": "1.0.0",
+   "Description": "House Recolor.",
+   "UniqueID": "Yyeahdude.HouseRecolor",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "1.3.0" // optional
+   }
+}

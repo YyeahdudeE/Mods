@@ -1,0 +1,12 @@
+{
+   "Name": "DIYCP Buildings",
+   "Author": "LavenderLight",
+   "Version": "1.0.0",
+   "Description": "Do-it-yourself Content Patcher",
+   "UniqueID": "Lavender.DIYCPFB",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [ "" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

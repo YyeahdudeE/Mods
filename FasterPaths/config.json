@@ -1,0 +1,15 @@
+{
+  "WalkSpeedBoost": 0,
+  "RunSpeedBoost": 0,
+  "GravelPathBoost": 1,
+  "WoodFloorBoost": 1,
+  "WoodPathBoost": 1,
+  "WeatheredFloorBoost": 1,
+  "StrawFloorBoost": 1,
+  "StoneFloorBoost": 1,
+  "CobblePathBoost": 1,
+  "SteppingStoneBoost": 1,
+  "BrickFloorBoost": 1,
+  "CrystalFloorBoost": 2,
+  "CrystalPathBoost": 2
+}

@@ -1,0 +1,13 @@
+{
+   "Name": "Boots",
+   "Author": "Yyeahdude",
+   "Version": "1.0.0",
+   "Description": "Balances boots.",
+   "UniqueID": "Yyeahdude.Boots",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "1.3.0" // optional
+   }
+}

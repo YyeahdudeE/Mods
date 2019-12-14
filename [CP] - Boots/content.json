@@ -1,0 +1,17 @@
+{
+  "Format": "1.4",
+  "Changes": [
+
+       // Boots
+	   {
+          "Action": "EditData",
+          "Target": "Data/Boots",
+		  "Entries": {
+			  "505": "Rubber Boots/Protection from the elements./50/0/2/1",
+			  "509": "Tundra Boots/The fuzzy lining keeps your ankles so warm./150/3/1/5",
+			  "511": "Dark Boots/Made from thick black leather./250/5/2/7",
+			  "513": "Genie Shoes/A curious energy permeates the fabric./250/2/8/9",
+		  }
+       },
+    ]
+}

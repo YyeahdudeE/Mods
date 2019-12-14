@@ -1,0 +1,13 @@
+{
+  "Format": "1.3",
+  "Changes": [
+
+       // House Recolor Tan Green Roof
+	   {
+		  "Action": "EditImage",
+          "Target": "Buildings/houses",
+          "FromFile": "assets/houses.png",
+		  "PatchMode": "Replace",
+	   },
+    ]
+}

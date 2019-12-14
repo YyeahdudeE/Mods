@@ -1,0 +1,12 @@
+{
+  "Format": "1.4",
+  "Changes": [
+
+       // Hair
+	   {
+          "Action": "Load",
+          "Target": "Characters/Farmer/hairstyles",
+          "FromFile": "assets/hairstyles.xnb",
+       },
+    ]
+}

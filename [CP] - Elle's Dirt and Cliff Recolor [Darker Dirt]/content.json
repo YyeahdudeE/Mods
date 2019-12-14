@@ -1,0 +1,55 @@
+{
+  "Format": "1.4",
+  "Changes": [
+
+       // Spring Outdoors
+	   {
+          "Action": "EditImage",
+          "Target": "Maps/spring_outdoorsTileSheet",
+          "FromFile": "assets/outdoors_spring_dark.png",
+          "Patchmode": "Overlay",
+       },
+	   
+	   // Spring Town
+	   {
+          "Action": "EditImage",
+          "Target": "Maps/spring_town",
+          "FromFile": "assets/town_spring.png",
+          "Patchmode": "Overlay",
+       },
+	   
+	   
+	   // Summer Outdoors
+	   {
+          "Action": "EditImage",
+          "Target": "Maps/summer_outdoorsTileSheet",
+          "FromFile": "assets/outdoors_summer_dark.png",
+          "Patchmode": "Overlay",
+       },
+	   
+	   // Summer Town
+	   {
+          "Action": "EditImage",
+          "Target": "Maps/summer_town",
+          "FromFile": "assets/town_summer.png",
+          "Patchmode": "Overlay",
+       },
+	   
+	   
+	   // Fall Outdoors
+	   {
+          "Action": "EditImage",
+          "Target": "Maps/fall_outdoorsTileSheet",
+          "FromFile": "assets/outdoors_fall_dark.png",
+          "Patchmode": "Overlay",
+       },
+	   
+	   // Fall Town
+	   {
+          "Action": "EditImage",
+          "Target": "Maps/fall_town",
+          "FromFile": "assets/town_fall.png",
+          "Patchmode": "Overlay",
+       },
+    ]
+}

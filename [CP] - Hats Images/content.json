@@ -1,0 +1,12 @@
+{
+  "Format": "1.4",
+  "Changes": [
+
+       // Bundles
+	   {
+          "Action": "Load",
+          "Target": "Characters/Farmer/hats",
+          "FromFile": "assets/hats.xnb",
+       },
+    ]
+}

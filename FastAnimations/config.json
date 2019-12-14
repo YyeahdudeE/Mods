@@ -1,0 +1,15 @@
+{
+  "DisableEatAndDrinkConfirmation": false,
+  "EatAndDrinkSpeed": 2,
+  "FishingSpeed": 2,
+  "MilkSpeed": 2,
+  "ShearSpeed": 2,
+  "ToolSwingSpeed": 1,
+  "WeaponSwingSpeed": 1,
+  "BreakGeodeSpeed": 2,
+  "CasinoSlotsSpeed": 5,
+  "PamBusSpeed": 2,
+  "TreeFallSpeed": 2,
+  "TitleMenuTransitionSpeed": 2,
+  "LoadGameBlinkSpeed": 2
+}

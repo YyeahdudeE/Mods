@@ -1,0 +1,26 @@
+{
+  "Format": "1.4",
+  "Changes": [
+
+       // Crafting Recipes
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+		  "Entries": {
+			  "Keg": "709 10 388 50 330 5 334 1 335 1 725 1/Home/12/true/Farming 8",
+			  "Cask": "388 80 709 20/Home/163/true/null",
+			  "Worm Bin": "709 25 336 1 335 1 771 50/Home/154/true/Fishing 7",
+			  "Transmute (Ir)": "336 5 338 5 335 5 334 5/Home/337/false/Mining 9",
+			  "Wild Seeds (Sp)": "16 1 18 1 20 1 22 1/Field/495 16/false/Foraging 1",
+			  "Wild Seeds (Su)": "396 1 398 1 402 1/Field/496 16/false/Foraging 3",
+			  "Wild Seeds (Fa)": "404 1 406 1 408 1 410 1/Field/497 16/false/Foraging 5",
+			  "Wild Seeds (Wi)": "412 1 414 1 416 1 418 1/Field/498 16/false/Foraging 7",
+			  "Warp Totem: Farm": "709 1 340 1 771 20/Field/688/false/Farming 7",
+			  "Warp Totem: Mountains": "709 1 86 1 390 25/Field/689/false/Mining 7",
+			  "Warp Totem: Beach": "709 1 393 2 771 10/Field/690/false/Fishing 7",
+			  "Iridium Band": "337 5 64 10 60 10 62 10 68 10/Home/527/false/Combat 9",
+			  "Rare Seed": "373 1/Field/347 2/false/Farming 9"
+		  }
+       },
+    ]
+}

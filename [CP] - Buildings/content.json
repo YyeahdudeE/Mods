@@ -1,0 +1,111 @@
+{
+  "Format": "1.3",
+  "Changes": [
+      
+       {
+          "Action": "Load",
+          "Target": "Buildings/Barn",
+          "FromFile": "assets/Barn.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "Buildings/Big Barn",
+          "FromFile": "assets/Big Barn.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/Big Coop",
+          "FromFile": "assets/Big Coop.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/Coop",
+          "FromFile": "assets/Coop.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "Buildings/Deluxe Barn",
+          "FromFile": "assets/Deluxe Barn.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/Deluxe Coop",
+          "FromFile": "assets/Deluxe Coop.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/Earth Obelisk",
+          "FromFile": "assets/Earth Obelisk.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/Gold Clock",
+          "FromFile": "assets/Gold Clock.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "Buildings/Junimo Hut",
+          "FromFile": "assets/Junimo Hut.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/Log Cabin",
+          "FromFile": "assets/Log Cabin.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/Mill",
+          "FromFile": "assets/Mill.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/Plank Cabin",
+          "FromFile": "assets/Plank Cabin.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "Buildings/Shed",
+          "FromFile": "assets/Shed.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/Shipping Bin",
+          "FromFile": "assets/Shipping Bin.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/Silo",
+          "FromFile": "assets/Silo.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/Slime Hutch",
+          "FromFile": "assets/Slime Hutch.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/SlimeHutch",
+          "FromFile": "assets/SlimeHutch.tbin"
+       },
+       {
+          "Action": "Load",
+          "Target": "Buildings/Stable",
+          "FromFile": "assets/Stable.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/Stone Cabin",
+          "FromFile": "assets/Stone Cabin.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/Water Obelisk",
+          "FromFile": "assets/Water Obelisk.png"
+       },
+      {
+          "Action": "Load",
+          "Target": "Buildings/Well",
+          "FromFile": "assets/Well.png"
+       },
+    ]
+}

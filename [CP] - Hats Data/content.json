@@ -1,0 +1,12 @@
+{
+  "Format": "1.4",
+  "Changes": [
+
+       // Hats Data
+	   {
+          "Action": "Load",
+          "Target": "Data/hats",
+          "FromFile": "assets/hats.xnb",
+       },
+    ]
+}

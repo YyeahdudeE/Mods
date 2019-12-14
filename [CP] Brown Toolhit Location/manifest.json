@@ -1,0 +1,13 @@
+{
+   "Name": "BrownToolHit",
+   "Author": "Yyeahdude",
+   "Version": "1.0.0",
+   "Description": "Ya heard.",
+   "UniqueID": "Yyeahdude.BrownToolHit",
+   "MinimumApiVersion": "3.0",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "1.3.0" // optional
+   }
+}

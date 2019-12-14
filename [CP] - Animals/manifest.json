@@ -1,0 +1,12 @@
+{
+   "Name": "DIYCP Animals",
+   "Author": "LavenderLight",
+   "Version": "1.0.0",
+   "Description": "Do-it-yourself Content Patcher",
+   "UniqueID": "Lavender.DIYCPA",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [ "" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

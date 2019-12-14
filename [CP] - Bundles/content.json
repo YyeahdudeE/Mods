@@ -1,0 +1,12 @@
+{
+  "Format": "1.4",
+  "Changes": [
+
+       // Bundles
+	   {
+          "Action": "Load",
+          "Target": "Data/Bundles",
+          "FromFile": "assets/Bundles.xnb",
+       },
+    ]
+}

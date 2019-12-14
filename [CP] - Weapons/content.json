@@ -1,0 +1,22 @@
+{
+  "Format": "1.3",
+  "Changes": [
+
+       // Weapons
+	   {
+          "Action": "EditData",
+          "Target": "Data/weapons",
+		  "Entries": {
+			  "9": "Lava Katana/A powerful blade forged in a pool of churning lava./48/60/1.2/0/0/2/0/-1/-1/2/.015/3.5",
+			  "13": "Insect Head/Not very pleasant to wield./15/25/1/4/9/0/0/-1/-1/0/.04/3",
+			  "14": "Neptune's Glaive/An heirloom from beyond the Gem Sea./43/59/2/-2/6/2/3/-1/-1/0/.02/3",
+			  "15": "Forest Sword/Made powerful by forest magic./18/35/1/6/5/1/0/-1/-1/0/.02/3",
+			  "18": "Burglar's Shank/A weapon of choice for the swift and silent./27/38/.5/0/5/0/1/114/100/0/.1/3",
+			  "21": "Crystal Dagger/The blade is made of purified quartz./17/27/1/0/10/0/1/-1/-1/0/.03/4",
+			  "26": "Lead Rod/It's incredibly heavy./18/27/1.8/-16/0/0/2/56/50/1/.02/3",
+			  "28": "The Slammer/An extremely heavy gavel that'll send foes flying./35/100/3.2/-12/0/1/2/128/100/2/.02/3",
+			  "45": "Wicked Kris/The blade is made of an iridium alloy./37/49/.5/0/8/0/1/-1/-1/2/.06/3",
+		  }
+       },
+    ]
+}

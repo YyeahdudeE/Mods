@@ -1,0 +1,12 @@
+{
+  "Format": "1.4",
+  "Changes": [
+
+       // Cursors Xnb
+	   {
+          "Action": "Load",
+          "Target": "LooseSprites/Cursors",
+          "FromFile": "assets/Cursors.xnb",
+       },
+    ]
+}
