@@ -4,9 +4,10 @@
 
        // Cursors Xnb
 	   {
-          "Action": "Load",
+          "Action": "EditImage",
           "Target": "LooseSprites/Cursors",
-          "FromFile": "assets/Cursors.xnb",
-       },
+          "FromFile": "assets/Cursors.png",
+		  "Patchmode": "Overlay"
+       }
     ]
 }

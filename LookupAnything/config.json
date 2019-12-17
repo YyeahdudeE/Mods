@@ -1,6 +1,6 @@
 {
   "HideOnKeyUp": true,
-  "ScrollAmount": 160,
+  "ScrollAmount": 180,
   "ProgressionMode": false,
   "ShowDataMiningFields": false,
   "EnableTileLookups": false,

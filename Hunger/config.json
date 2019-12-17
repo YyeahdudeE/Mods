@@ -10,5 +10,6 @@
   "WalkingMultiplier": 2.0,
   "InMineMultiplier": 2.0,
   "AfterMidnightMultiplier": 1.5,
-  "RealSecondsPerInGame10Minutes": 7.0
+  "RealSecondsPerInGame10Minutes": 7.0,
+  "HungerMailEnabled": true
 }

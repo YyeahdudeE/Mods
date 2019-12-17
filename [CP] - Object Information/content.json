@@ -12,14 +12,13 @@
 			  "213": "Fish Taco/500/66/Cooking -7/Fish Taco/It smells delicious./food/0 2 0 0 3 0 0 0 0 0 0/600",
 			  "225": "Fried Eel/120/30/Cooking -7/Fried Eel/Greasy but flavorful./food/0 0 0 0 3 0 0 0 0 0 0/600",
 			  "226": "Spicy Eel/175/46/Cooking -7/Spicy Eel/It's really spicy! Be careful./food/0 0 0 0 5 0 0 0 0 1 0/600",
-			  "228": "Maki Roll/220/40/Cooking -7/Maki Roll/Fish and rice wrapped in seaweed./food/0 0 0 0 0 0 0 0 0 1 0/100",
+			  "228": "Maki Roll/220/40/Cooking -7/Maki Roll/Fish and rice wrapped in seaweed./food/0 0 0 0 0 0 0 0 0 2 0/100",
 			  "238": "Cranberry Sauce/150/50/Cooking -7/Cranberry Sauce/A festive treat./food/0 0 2 0 0 0 0 0 0 0 0/300",
 			  "239": "Stuffing/185/68/Cooking -7/Stuffing/Ahh... the smell of warm bread and sage./food/0 0 0 0 0 0 0 0 0 0 2/480",
 			  "244": "Roots Platter/100/50/Cooking -7/Roots Platter/This'll get you digging for more./food/0 0 5 0 8 0 0 10 0 -1 2/60",
 			  "373": "Golden Pumpkin/2500/-300/Basic/Golden Pumpkin/A truly skilled farmer could probably dig a few rare seeds out.",
 			  "395": "Coffee/100/1/Crafting/Coffee/It smells delicious. This is sure to give you a boost./drink/-2 -2 -2 0 0 -2 0 0 0 1 0/400",
-			  "403": "Field Snack/20/35/Crafting/Field Snack/A quick snack to fuel the hungry forager.",
-			  "457": "Devil's Food Cake/30/15/Cooking -7/Devil's Food Cake/Damned good cake./food/0 0 0 0 2 0 0 -100 99 0 3/1800",
+			  "403": "Field Snack/20/35/Crafting/Field Snack/A quick snack to fuel the hungry forager."
 		  }
        },
     ]

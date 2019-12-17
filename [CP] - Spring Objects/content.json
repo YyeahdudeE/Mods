@@ -6,8 +6,8 @@
 	   {
           "Action": "EditImage",
           "Target": "Maps/springobjects",
-          "FromFile": "assets/springobjects.xnb",
-          "Patchmode": "Replace",
-       },
+          "FromFile": "assets/springobjects.png",
+          "Patchmode": "Overlay"
+       }
     ]
 }

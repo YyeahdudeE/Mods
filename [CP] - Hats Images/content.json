@@ -2,11 +2,12 @@
   "Format": "1.4",
   "Changes": [
 
-       // Bundles
+       // Hats
 	   {
-          "Action": "Load",
+          "Action": "EditImage",
           "Target": "Characters/Farmer/hats",
-          "FromFile": "assets/hats.xnb",
+          "FromFile": "assets/hats.png",
+          "Patchmode": "Replace"
        },
     ]
 }

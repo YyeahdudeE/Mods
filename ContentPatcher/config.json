@@ -1,5 +1,5 @@
 {
-  "EnableDebugFeatures": false,
+  "EnableDebugFeatures": true,
   "Controls": {
     "ToggleDebug": "F3",
     "DebugPrevTexture": "LeftControl",

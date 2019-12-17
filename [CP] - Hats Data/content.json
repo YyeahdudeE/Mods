@@ -4,9 +4,46 @@
 
        // Hats Data
 	   {
-          "Action": "Load",
+          "Action": "EditData",
           "Target": "Data/hats",
-          "FromFile": "assets/hats.xnb",
-       },
+		  "Entries": {
+			  "0": "Cowboy Hat/The leather is old and cracked, but surprisingly supple. It smells musty. (Achievement: A Complete Collection)/false/true",
+			"1": "Fancy Hat/Oh, you fancy huh? (Achievement: 1mil)/false/true",
+			"2": "Top Hat/A gentleman's classic./false/true",
+			"3": "Sombrero/A festively decorated hat made from woven straw. (Achievement: 10mil)/false/true",
+			"4": "Straw Hat/Light and cool, it's a farmer's delight./false/true",
+			"5": "Official Cap/Looks like it belonged to a postman or policeman. Either way, it's still very soft and smells okay. (Achievement: Ol' Mariner)/false/true",
+			"6": "Miner's Helmet/For exploring caves. (Achievement: Treasure Trove)/false/true",
+			"7": "Gas Mask/Real cooks wear just this and thier underwear. (Achievement: Sous Chef)/false/true",
+			"8": "Skeleton Mask/The green eyes are glowing mysteriously./true/true",
+			"9": "Goblin Mask/Freak out the neighborhood with this creepy mask. Rubber ear joints for effect. (Achievement: Full Shipment)/true/true",
+			"10": "Chicken Mask/You'll be sure to get thim grinning with this one. 	(Achievement: A Big Help)/true/true",
+			"11": "Earmuffs/Keep your ears toasty. Lined with artisanal velvet from Castle Village. (Achievement: Popular)/true/false",
+			"12": "Paladins's Helmet/+2 Valor. (Achievement: Cook)/true/false",
+			"13": "The Grey/You shall look stylish!. (Achievement: Moving Up)/true/false",
+			"14": "Knight's Helmet/Comes with chivalry built in. (Achievement: A New Friend)/true/false",
+			"15": "Hunter's Cap/The wool lining should stay warm deep into the forest. (Achievement: Living Large)/false/true",
+			"16": "Bear Hood/Form of... a bear. (Achievement: Artisan)/false/true",
+			"17": "Sailor's Cap/It's fresh and starchy./false/true",
+			"18": "Good Ol' Cap/A floppy old topper with a creased bill. Looks like it's been through a lot. (Achievement: 15k)/false/true",
+			"19": "Fedora/A city-slicker's standard./false/true",
+			"20": "Trucker Hat/Mesh in the back to keep your head cool. (Achievement: 250k)/false/true",
+			"21": "Lucky Bow/Does not effect daily luck. (Achievement: 50k)/true/false",
+			"22": "Samurai Helmet/Look like a samurai. (Achievement: Gofer)/true/false",
+			"23": "Gnome's Cap/This gnome had a very large head. (Achievement: Craft Master)/false/true",
+			"24": "Captain's Hat/You can't tell if it's real or just from a costume shop. (Achievement: Master Angler)/true/true",
+			"25": "Santa Hat/Celebrate the magical season. (Achievement: Networking)/false/true",
+			"26": "Pumpkin Head/This is halloween!. (Achievement: Cliques)/true/true",
+			"27": "Hard Hat/Keep your dome in one piece./false/true",
+			"28": "Eye Patch/Goodbye depth perception.(Achievement: Fisherman)/false/true",
+			"29": "Wolf Hood/+1 to your wolf pack. (Achievement: D.I.Y.)/true/false",
+			"30": "Black Beanie/Think you're cool? (Achievement: Mother Catch)/true/false",
+			"31": "Squire's Helmet/Could be worse. (Achievement: Best Friends)/true/true",
+			"32": "King's Crown/But did you really earn it?. (Achievement: The Beloved Farmer)/true/true",
+			"33": "Western/This hat is stupid. (Achievement: Monoculture)/false/true",
+			"34": "Iron Helmet/Fus Roh Dah! (Achievement: Polyculture)/false/true",
+			"35": "Archer's Cap/Fashionable whether you're an archer or not. (Achievement: Gourmet Chef)/false/true"
+			}
+       }
     ]
 }

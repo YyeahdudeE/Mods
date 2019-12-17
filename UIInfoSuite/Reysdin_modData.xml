@@ -3,7 +3,7 @@
   <option name="ShowLuckIcon">True</option>
   <option name="ShowLevelUpAnimation">True</option>
   <option name="ShowExperienceBar">True</option>
-  <option name="AllowExperienceBarToFadeOut">True</option>
+  <option name="AllowExperienceBarToFadeOut">False</option>
   <option name="ShowExperienceGain">False</option>
   <option name="ShowLocationOfTownsPeople">False</option>
   <option name="ShowBirthdayIcon">True</option>

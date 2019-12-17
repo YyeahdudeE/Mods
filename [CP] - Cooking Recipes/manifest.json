@@ -1,10 +1,10 @@
 {
    "Name": "Cooking Recipes",
    "Author": "Yyeahdude",
-   "Version": "1.0.0",
+   "Version": "1.1.0",
    "Description": "Replaces cooking recipes and how to obtain them.",
    "UniqueID": "Yyeahdude.CookingRecipes",
-   "MinimumApiVersion": "2.0",
+   "MinimumApiVersion": "3.0",
    "UpdateKeys": [],
    "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
